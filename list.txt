@@ -1,0 +1,6 @@
+curl
+git
+wget
+ruby
+ruby-dev
+tmux
